@@ -22,6 +22,6 @@ For substantial contributions in developing, generating and curating the RGI ove
 **Graham Cogley**
 
 For their pioneering work in initiating the RGI:<br>
-**Graham Cogley, Georg Kaser, Tad Pfeffer.**
+**Graham Cogley, Georg Kaser, Tad Pfeffer**
 
 > We also acknowledge the countless individuals who have mapped glaciers around the world and submitted the data to GLIMS, and their institutions supporting their work.
