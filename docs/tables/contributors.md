@@ -31,7 +31,7 @@ Contributors:
 - **Patrick Schmitt**: glacier complex and intersects products 
 - **Ethan Welty**: links to RGI 6.0 and overlaps
 
-## Open outlines review process
+## Open outlines review
 
 **Iestyn Barr, Etienne Berthier, Tobias Bolch, Matthias Huss, Tatiana Khromova, William Kochtitzky, Kirsty Langley, Erik Mannerfelt, Fabien Maussion, Robert McNabb, Frank Paul, Rainer Prinz, Antoine Rabatel, Philipp Rastner, Levan Tielidze.**
 
