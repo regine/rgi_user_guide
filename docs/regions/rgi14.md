@@ -1,6 +1,6 @@
 # 14: Asia, South West
 
-This region encompasses all glaciers ...
+This region encompasses all glaciers in the Hindu Kush, the Karakoram (including the Taxkozuk range in the North) and the glaciers in the western Himalaya and the south-eastern Tibetan Plateau that drain into the Indus River.
 
 ```{admonition} Subregions
 :class: note, dropdown
